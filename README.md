@@ -22,3 +22,7 @@ Advanced Device Info can show you most of the hardware and software details,like
 6. Display panel details
 
 7. Network & Region details
+
+# Privacy Policy & Terms of use
+
+[Click here to get redirected to the privacy policy & ToS page. (Current Page)](https://github.com/TherionRO/AdvancedDeviceInfo/wiki)
