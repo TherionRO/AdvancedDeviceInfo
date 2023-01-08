@@ -25,4 +25,4 @@ Advanced Device Info can show you most of the hardware and software details,like
 
 # Privacy Policy & Terms of use
 
-[Click here to get redirected to the privacy policy & ToS page. (Current Page)](https://github.com/TherionRO/AdvancedDeviceInfo/wiki)
+[Click here to get redirected to the privacy policy & ToS page.](https://github.com/TherionRO/AdvancedDeviceInfo/wiki)
