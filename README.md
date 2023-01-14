@@ -4,6 +4,7 @@ Advanced Device Info is a lightweight Android App for seeing most of the details
 # Download
 
 Download Advanced Device Info from playstore on this link :
+[Click here to download Advanced Device Info on your Android Device](https://play.google.com/store/apps/details?id=com.therionro.advanceddeviceinfo)
 
 # What details can you see using Advanced Device Info App?
 
