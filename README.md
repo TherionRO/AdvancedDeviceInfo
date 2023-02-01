@@ -1,3 +1,5 @@
+<img src="https://github.com/TherionRO/AdvancedDeviceInfo/blob/main/github-files/assets/banner.png?raw=true"/>
+
 # AdvancedDeviceInfo
 Advanced Device Info is a lightweight Android App for seeing most of the details about the devices you are using.Currently,only the Core & Library of the app are open-source,the app itself is proprietary for now. [Click here to see the open source library we are using.](https://github.com/TherionRO/OpenCore)
 
